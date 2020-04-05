@@ -8,7 +8,8 @@ public class FirstJavaProgram {
 	int i=a+b;
 	System.out.println("The value of i is " +i);
 	System.out.println("12345");
-	
+		System.out.println("12345");
+
 	}
 
 }
