@@ -1,14 +1,13 @@
 package codepackage;
 
 public class FirstJavaProgram {
-
+	
 	public static void main(String[] args) {
-	int a=999999999;
+	int a=9;
 	int b=5;
-	int i=a+b;
-	System.out.println("The value of i is " +i);
-	System.out.println("12345");
-		System.out.println("12345");
+	int age=a*b;
+	System.out.println("Age is "  +age);
+
 
 	}
 
