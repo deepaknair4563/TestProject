@@ -13,7 +13,9 @@ char name = 'a';
 boolean d=true;
 System.out.println(a);
 System.out.println(a==b);
-
+String Name = "Deepu";
+int length = Name.length();
+System.out.println(length);
 	}
 
 }
