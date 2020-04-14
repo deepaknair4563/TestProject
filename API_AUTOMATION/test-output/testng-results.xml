@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+      <class name="codepackage.TestNG1">
+        <test-method status="PASS" signature="c()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="c" is-config="true" duration-ms="20" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="b()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="b" is-config="true" duration-ms="0" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="e()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="e" is-config="true" duration-ms="0" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method status="PASS" signature="i()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="i" is-config="true" duration-ms="1" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i -->
+        <test-method status="PASS" signature="a()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="a" duration-ms="9" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="d()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="d" is-config="true" duration-ms="2" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="i()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="i" is-config="true" duration-ms="8" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i -->
+        <test-method status="PASS" signature="j()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="j" duration-ms="2" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j -->
+        <test-method status="PASS" signature="d()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="d" is-config="true" duration-ms="1" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="g()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="g" is-config="true" duration-ms="1" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="f()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="f" is-config="true" duration-ms="1" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="h()[pri:0, instance:codepackage.TestNG1@4b553d26]" name="h" is-config="true" duration-ms="1" started-at="2020-04-12T16:16:39 IST" finished-at="2020-04-12T16:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+      </class> <!-- codepackage.TestNG1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
